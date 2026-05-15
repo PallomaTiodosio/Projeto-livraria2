@@ -1,7 +1,4 @@
-Equipe:
-Victor Hugo Seguette Costa
-Nícolas Lima Schinagel do Nascimento
-
+Dupla: Lavinia e Palloma
 Banco de dados:
 create database bdEmprestimo;
 use bdEmprestimo;
